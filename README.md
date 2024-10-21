@@ -16,7 +16,6 @@ According to [McKinsey research](https://www.mckinsey.com/industries/life-scienc
 - **AWS RDS**: To store the processed data securely in the cloud.
 - **PostgreSQL**: Database management system used for handling structured data.
 - **Power BI**: Business intelligence tool used to visualize and analyze sales data.
-- **MySQL**: Used for initial data collection and storage before migrating to PostgreSQL.
 
 ## Key Objectives
 - Provide real-time visibility into sales performance metrics such as total sales, sales by unit, and top-selling employees.
