@@ -58,7 +58,6 @@ As the Data Engineer, I was responsible for:
 2. Install necessary dependencies:
    ```bash
    pip install dbt-core
-   pip install psycopg2
    ```
 3. Configure DBT:
    - Modify the `dbt_project.yml` to point to your PostgreSQL database.
