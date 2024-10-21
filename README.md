@@ -53,7 +53,7 @@ As the Data Engineer, I was responsible for:
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/username/pharmacy-sales-insights.git
+   git clone https://github.com/brunobrunheroto/pharmacy_sales_insights.git
    ```
 2. Install necessary dependencies:
    ```bash
@@ -69,7 +69,7 @@ As the Data Engineer, I was responsible for:
    ```
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## Contact
 If you have any questions, feel free to reach out to me at brunobrunheroto@gmail.com
